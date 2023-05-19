@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: {{ template "pp-webhook.fullname" . }}-configmap
+  namespace: {{ .Release.Namespace | quote }}
+data:
+  SPRING_PROFILES_ACTIVE: {{ join "," .Values.appConfig.springProfiles }}
+  {{- with .Values.appConfig.environmentVariables }}
+    {{- toYaml . | nindent 2 }}
+  {{- end }}
