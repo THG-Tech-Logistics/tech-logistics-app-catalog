@@ -3,7 +3,7 @@ entries:
   partner-platform-webhook-service:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-05-23T14:09:19.923254176Z"
+    created: "2023-05-23T14:10:08.061763538Z"
     description: A Helm chart for Kubernetes
     digest: 4ddf5b8379e4aa00c0dda0ece4f1676be1ed6ec47f1e4da679a3e4893fbfbe12
     name: partner-platform-webhook-service
@@ -13,7 +13,7 @@ entries:
     version: 0.0.0-ebff02c1313e6a89c3d6301dc4199d014cfd2b93
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-05-23T14:09:19.922796479Z"
+    created: "2023-05-23T14:10:08.061301229Z"
     description: A Helm chart for Kubernetes
     digest: 90a8c8372cdc3fc39fcb3bd40555d95aa0fe55fed66b015d56d541c9cbcb242f
     name: partner-platform-webhook-service
@@ -23,7 +23,17 @@ entries:
     version: 0.0.0-d4680b62398b539a6584459d4ae55beef3588362
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-05-23T14:09:19.921220188Z"
+    created: "2023-05-23T14:10:08.060749118Z"
+    description: A Helm chart for Kubernetes
+    digest: 0df40f341127713ee3135cf85ce46dc84d261d3267d35b22777bf0a8285399b0
+    name: partner-platform-webhook-service
+    type: application
+    urls:
+    - https://THG-Tech-Logistics.github.io/tech-logistics-app-catalog/partner-platform-webhook-service-0.0.0-c4ab427d6cefc70b3e6cc50db36e129e8aec2b4b.tgz
+    version: 0.0.0-c4ab427d6cefc70b3e6cc50db36e129e8aec2b4b
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2023-05-23T14:10:08.060230708Z"
     description: A Helm chart for Kubernetes
     digest: 588915f90026b711240dfb0c34bc8335c502b650f5df058720000770fdba25a1
     name: partner-platform-webhook-service
@@ -33,7 +43,7 @@ entries:
     version: 0.0.0-9bad4295f97ee0e2cce32b5c121c762d34845639
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-05-23T14:09:19.920510092Z"
+    created: "2023-05-23T14:10:08.059779099Z"
     description: A Helm chart for Kubernetes
     digest: 74d328d99e8367d648b9e78db32c317a1ca974f543e46810ffd4378818989ad7
     name: partner-platform-webhook-service
@@ -41,4 +51,4 @@ entries:
     urls:
     - https://THG-Tech-Logistics.github.io/tech-logistics-app-catalog/partner-platform-webhook-service-0.0.0-69903c354d071233f6baaf5c006287ac53823f9f.tgz
     version: 0.0.0-69903c354d071233f6baaf5c006287ac53823f9f
-generated: "2023-05-23T14:09:19.918987101Z"
+generated: "2023-05-23T14:10:08.052218352Z"
