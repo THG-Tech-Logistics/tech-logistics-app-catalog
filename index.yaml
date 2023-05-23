@@ -3,7 +3,7 @@ entries:
   partner-platform-webhook-service:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-05-23T14:01:54.939051185Z"
+    created: "2023-05-23T14:05:11.622510366Z"
     description: A Helm chart for Kubernetes
     digest: 4ddf5b8379e4aa00c0dda0ece4f1676be1ed6ec47f1e4da679a3e4893fbfbe12
     name: partner-platform-webhook-service
@@ -13,7 +13,7 @@ entries:
     version: 0.0.0-ebff02c1313e6a89c3d6301dc4199d014cfd2b93
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-05-23T14:01:54.938191565Z"
+    created: "2023-05-23T14:05:11.622010136Z"
     description: A Helm chart for Kubernetes
     digest: 90a8c8372cdc3fc39fcb3bd40555d95aa0fe55fed66b015d56d541c9cbcb242f
     name: partner-platform-webhook-service
@@ -21,4 +21,14 @@ entries:
     urls:
     - https://THG-Tech-Logistics.github.io/tech-logistics-app-catalog/partner-platform-webhook-service-0.0.0-d4680b62398b539a6584459d4ae55beef3588362.tgz
     version: 0.0.0-d4680b62398b539a6584459d4ae55beef3588362
-generated: "2023-05-23T14:01:54.936572426Z"
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2023-05-23T14:05:11.621451903Z"
+    description: A Helm chart for Kubernetes
+    digest: 74d328d99e8367d648b9e78db32c317a1ca974f543e46810ffd4378818989ad7
+    name: partner-platform-webhook-service
+    type: application
+    urls:
+    - https://THG-Tech-Logistics.github.io/tech-logistics-app-catalog/partner-platform-webhook-service-0.0.0-69903c354d071233f6baaf5c006287ac53823f9f.tgz
+    version: 0.0.0-69903c354d071233f6baaf5c006287ac53823f9f
+generated: "2023-05-23T14:05:11.615746065Z"
