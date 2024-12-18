@@ -3,7 +3,17 @@ entries:
   partner-platform-webhook-service:
   - apiVersion: v2
     appVersion: 1.2.48
-    created: "2024-10-21T12:33:55.711388656Z"
+    created: "2024-12-18T07:59:43.480525596Z"
+    description: A Helm chart for Kubernetes
+    digest: ab259ae6c0ca1492b93a9d2d49a308422235f836fa75c82af6edf191b553bc3c
+    name: partner-platform-webhook-service
+    type: application
+    urls:
+    - https://thg-tech-logistics.github.io/tech-logistics-app-catalog/partner-platform-webhook-service-1.2.100.tgz
+    version: 1.2.100
+  - apiVersion: v2
+    appVersion: 1.2.48
+    created: "2024-12-18T07:59:43.496441805Z"
     description: A Helm chart for Kubernetes
     digest: e30c2e6a791f0df382c0aea7999e4baeb407b57329e2726b32c63b4c3503f4c8
     name: partner-platform-webhook-service
@@ -13,7 +23,7 @@ entries:
     version: 1.2.99
   - apiVersion: v2
     appVersion: 1.2.48
-    created: "2024-10-21T12:33:55.711045032Z"
+    created: "2024-12-18T07:59:43.496101422Z"
     description: A Helm chart for Kubernetes
     digest: 26e34c3683f080d0bc06f2b9b4d535bd869806549fb6f03fd8d4c5acaf5afdb8
     name: partner-platform-webhook-service
@@ -23,7 +33,7 @@ entries:
     version: 1.2.98
   - apiVersion: v2
     appVersion: 1.2.48
-    created: "2024-10-21T12:33:55.710704243Z"
+    created: "2024-12-18T07:59:43.495700205Z"
     description: A Helm chart for Kubernetes
     digest: 10865a94d7cf30a06e7512aff6eadbe35c98d09e48b708f01fd8d33c30c765a2
     name: partner-platform-webhook-service
@@ -33,7 +43,7 @@ entries:
     version: 1.2.95
   - apiVersion: v2
     appVersion: 1.2.48
-    created: "2024-10-21T12:33:55.710336384Z"
+    created: "2024-12-18T07:59:43.495362316Z"
     description: A Helm chart for Kubernetes
     digest: 975e3cecd71955c0bd03970b1f263685d6b1c85229778548d41eb7137a579499
     name: partner-platform-webhook-service
@@ -43,7 +53,7 @@ entries:
     version: 1.2.93
   - apiVersion: v2
     appVersion: 1.2.48
-    created: "2024-10-21T12:33:55.709988262Z"
+    created: "2024-12-18T07:59:43.495024537Z"
     description: A Helm chart for Kubernetes
     digest: ab5c6299b5d6f1e0ac9b8ad53307c566bafc1ba0af07cc1cb6ae540c29829ad1
     name: partner-platform-webhook-service
@@ -53,7 +63,7 @@ entries:
     version: 1.2.91
   - apiVersion: v2
     appVersion: 1.2.48
-    created: "2024-10-21T12:33:55.709366817Z"
+    created: "2024-12-18T07:59:43.494443505Z"
     description: A Helm chart for Kubernetes
     digest: e0e6a6c6e702299f3e44603d4c242dcc05da5c7586243833fef29d5aa0acbf2a
     name: partner-platform-webhook-service
@@ -63,7 +73,7 @@ entries:
     version: 1.2.84
   - apiVersion: v2
     appVersion: 1.2.48
-    created: "2024-10-21T12:33:55.708992936Z"
+    created: "2024-12-18T07:59:43.494103392Z"
     description: A Helm chart for Kubernetes
     digest: 1e8151d5de940f2a29876844507c71d64ada441880208157e953d6dd4d5031eb
     name: partner-platform-webhook-service
@@ -73,7 +83,7 @@ entries:
     version: 1.2.83
   - apiVersion: v2
     appVersion: 1.2.48
-    created: "2024-10-21T12:33:55.70865329Z"
+    created: "2024-12-18T07:59:43.493764311Z"
     description: A Helm chart for Kubernetes
     digest: 06ac15934733eaae9827276fe8ae477d92d9e37ea1e706d7890015edd5c5dd62
     name: partner-platform-webhook-service
@@ -83,7 +93,7 @@ entries:
     version: 1.2.82
   - apiVersion: v2
     appVersion: 1.2.48
-    created: "2024-10-21T12:33:55.708307782Z"
+    created: "2024-12-18T07:59:43.493421833Z"
     description: A Helm chart for Kubernetes
     digest: eb075185938de4816210052af924c648ab33a0a3cda09f44ead253827ce0365b
     name: partner-platform-webhook-service
@@ -93,7 +103,7 @@ entries:
     version: 1.2.54
   - apiVersion: v2
     appVersion: 1.2.48
-    created: "2024-10-21T12:33:55.707934222Z"
+    created: "2024-12-18T07:59:43.493079937Z"
     description: A Helm chart for Kubernetes
     digest: b99407482bd0fbbfc95101e77d3d0549eec6a598be853adf7ba6996593cb313b
     name: partner-platform-webhook-service
@@ -103,7 +113,7 @@ entries:
     version: 1.2.53
   - apiVersion: v2
     appVersion: 1.2.48
-    created: "2024-10-21T12:33:55.707589646Z"
+    created: "2024-12-18T07:59:43.492731468Z"
     description: A Helm chart for Kubernetes
     digest: b2140e73567c52dcbcabf7c75d0e9bb58814d8dd08487639ec7314bd71c9c33c
     name: partner-platform-webhook-service
@@ -113,7 +123,7 @@ entries:
     version: 1.2.52
   - apiVersion: v2
     appVersion: 1.2.48
-    created: "2024-10-21T12:33:55.707233679Z"
+    created: "2024-12-18T07:59:43.492381667Z"
     description: A Helm chart for Kubernetes
     digest: 8961af048d4ca1a14f9058a7cd98ec8427a79ba50c25804d37a5dc99bb6dd177
     name: partner-platform-webhook-service
@@ -123,7 +133,7 @@ entries:
     version: 1.2.51
   - apiVersion: v2
     appVersion: 1.2.48
-    created: "2024-10-21T12:33:55.706845081Z"
+    created: "2024-12-18T07:59:43.492027518Z"
     description: A Helm chart for Kubernetes
     digest: 082f96f2f85e899a95fd02e61aadb1f79350e00bb3101ad8aa55d8eef151a99b
     name: partner-platform-webhook-service
@@ -133,7 +143,7 @@ entries:
     version: 1.2.49
   - apiVersion: v2
     appVersion: 1.2.26
-    created: "2024-10-21T12:33:55.70648144Z"
+    created: "2024-12-18T07:59:43.491627092Z"
     description: A Helm chart for Kubernetes
     digest: a505391ffe782d482cb5c0ff49350e3ba59f824a3a6e37caca929403365c1592
     name: partner-platform-webhook-service
@@ -143,7 +153,7 @@ entries:
     version: 1.2.48
   - apiVersion: v2
     appVersion: 1.2.23
-    created: "2024-10-21T12:33:55.706110554Z"
+    created: "2024-12-18T07:59:43.491183286Z"
     description: A Helm chart for Kubernetes
     digest: d4e2a5ad0ce23896aafb08ce8f5f5b85bac02651cfaebeec76f663997be351e9
     name: partner-platform-webhook-service
@@ -153,7 +163,7 @@ entries:
     version: 1.2.47
   - apiVersion: v2
     appVersion: 1.2.23
-    created: "2024-10-21T12:33:55.705308361Z"
+    created: "2024-12-18T07:59:43.490310912Z"
     description: A Helm chart for Kubernetes
     digest: e697280926ec0f871330001fc7e8d83600ebe66854a22590eedbc84bec40955c
     name: partner-platform-webhook-service
@@ -163,7 +173,7 @@ entries:
     version: 1.2.46
   - apiVersion: v2
     appVersion: 1.2.23
-    created: "2024-10-21T12:33:55.704479548Z"
+    created: "2024-12-18T07:59:43.489541149Z"
     description: A Helm chart for Kubernetes
     digest: 0c5eb46b7302dc4f6a3caa28ebb8fe3ac0e5525daea925ff2c0deb84eb2d8d8a
     name: partner-platform-webhook-service
@@ -173,7 +183,7 @@ entries:
     version: 1.2.45
   - apiVersion: v2
     appVersion: 1.2.23
-    created: "2024-10-21T12:33:55.703442555Z"
+    created: "2024-12-18T07:59:43.48867119Z"
     description: A Helm chart for Kubernetes
     digest: 96e5b5cc7ce509e311bc4f86d20075c4ed72a48d87bc1fa1e0ec1e25fb37ad6d
     name: partner-platform-webhook-service
@@ -183,7 +193,7 @@ entries:
     version: 1.2.40
   - apiVersion: v2
     appVersion: 1.2.23
-    created: "2024-10-21T12:33:55.702855795Z"
+    created: "2024-12-18T07:59:43.4880962Z"
     description: A Helm chart for Kubernetes
     digest: 9e879234afb47af0b229318f103a32c0f585ddc5fc0de330b73ed7f3f1e25915
     name: partner-platform-webhook-service
@@ -193,7 +203,7 @@ entries:
     version: 1.2.39
   - apiVersion: v2
     appVersion: 1.2.23
-    created: "2024-10-21T12:33:55.70251694Z"
+    created: "2024-12-18T07:59:43.487750366Z"
     description: A Helm chart for Kubernetes
     digest: 6d47e82e01c9d04bc1ddb6699a7c00f2fd81e0a81752f999cf014c65c0b70be3
     name: partner-platform-webhook-service
@@ -203,7 +213,7 @@ entries:
     version: 1.2.38
   - apiVersion: v2
     appVersion: 1.2.23
-    created: "2024-10-21T12:33:55.702168908Z"
+    created: "2024-12-18T07:59:43.487396547Z"
     description: A Helm chart for Kubernetes
     digest: eb244a149402df31c9447a2f3e9c2232a1bb6503a3142508ab0bb9c10f455861
     name: partner-platform-webhook-service
@@ -213,7 +223,7 @@ entries:
     version: 1.2.33
   - apiVersion: v2
     appVersion: 1.2.23
-    created: "2024-10-21T12:33:55.70178048Z"
+    created: "2024-12-18T07:59:43.487061543Z"
     description: A Helm chart for Kubernetes
     digest: d944c52eb4c413fe3b45f2b7615b37c002826d9fced4ce65a437d9f1a21ccd9e
     name: partner-platform-webhook-service
@@ -223,7 +233,7 @@ entries:
     version: 1.2.32
   - apiVersion: v2
     appVersion: 1.2.23
-    created: "2024-10-21T12:33:55.701438399Z"
+    created: "2024-12-18T07:59:43.486725688Z"
     description: A Helm chart for Kubernetes
     digest: a4a8ee2ded78120229fe8e77f26ba3722b90e40355ebb09abd7d58bef633ff1f
     name: partner-platform-webhook-service
@@ -233,7 +243,7 @@ entries:
     version: 1.2.31
   - apiVersion: v2
     appVersion: 1.2.23
-    created: "2024-10-21T12:33:55.700845257Z"
+    created: "2024-12-18T07:59:43.486136882Z"
     description: A Helm chart for Kubernetes
     digest: b98efdf19836ed01bfe13bc906fe0d6e7d9199cecddabf6c7175a014971cbf98
     name: partner-platform-webhook-service
@@ -243,7 +253,7 @@ entries:
     version: 1.2.29
   - apiVersion: v2
     appVersion: 1.2.23
-    created: "2024-10-21T12:33:55.70049424Z"
+    created: "2024-12-18T07:59:43.485798913Z"
     description: A Helm chart for Kubernetes
     digest: caed7c4ca7fc5ba2a32f1420f9277b72cfefb88b40d077c52a9ea8a71f1a0096
     name: partner-platform-webhook-service
@@ -253,7 +263,7 @@ entries:
     version: 1.2.28
   - apiVersion: v2
     appVersion: 1.2.23
-    created: "2024-10-21T12:33:55.700135728Z"
+    created: "2024-12-18T07:59:43.48545337Z"
     description: A Helm chart for Kubernetes
     digest: a9218dd99773480401d8ebf3d2f9abca6050f4a95c10bcd475b45109641abf8d
     name: partner-platform-webhook-service
@@ -263,7 +273,7 @@ entries:
     version: 1.2.27
   - apiVersion: v2
     appVersion: 1.2.23
-    created: "2024-10-21T12:33:55.699610123Z"
+    created: "2024-12-18T07:59:43.485106334Z"
     description: A Helm chart for Kubernetes
     digest: 8805dc20d5e2ea065f410d239a3485b37a778620e1d5fe7c52c2f4957796dfa8
     name: partner-platform-webhook-service
@@ -273,7 +283,7 @@ entries:
     version: 1.2.26
   - apiVersion: v2
     appVersion: 1.2.23
-    created: "2024-10-21T12:33:55.698974051Z"
+    created: "2024-12-18T07:59:43.484757585Z"
     description: A Helm chart for Kubernetes
     digest: cc77d3bd3d08a0541b413ac9b31196a2048e868bcadf701da3acceb230badb3c
     name: partner-platform-webhook-service
@@ -283,7 +293,7 @@ entries:
     version: 1.2.23
   - apiVersion: v2
     appVersion: 1.2.22
-    created: "2024-10-21T12:33:55.698507727Z"
+    created: "2024-12-18T07:59:43.484413594Z"
     description: A Helm chart for Kubernetes
     digest: c21bc7046172de7ef638146bb125edde7c98359a0cb260838da785294af51899
     name: partner-platform-webhook-service
@@ -293,7 +303,7 @@ entries:
     version: 1.2.22
   - apiVersion: v2
     appVersion: 1.2.19
-    created: "2024-10-21T12:33:55.697974848Z"
+    created: "2024-12-18T07:59:43.483893746Z"
     description: A Helm chart for Kubernetes
     digest: fa917379312dddbcc9851bf60f49dd54e41ad2330c88a53c982fb8fd4859b0c1
     name: partner-platform-webhook-service
@@ -303,7 +313,7 @@ entries:
     version: 1.2.19
   - apiVersion: v2
     appVersion: 1.2.17
-    created: "2024-10-21T12:33:55.697652775Z"
+    created: "2024-12-18T07:59:43.483597004Z"
     description: A Helm chart for Kubernetes
     digest: 61377b7a63f1f3d8257b6222a17a9b3dae70d10ce169e688a6427045d64c5506
     name: partner-platform-webhook-service
@@ -313,7 +323,7 @@ entries:
     version: 1.2.18
   - apiVersion: v2
     appVersion: 1.2.17
-    created: "2024-10-21T12:33:55.696850822Z"
+    created: "2024-12-18T07:59:43.483083518Z"
     description: A Helm chart for Kubernetes
     digest: 0b6358e387b164d4593c63b792d52eddfbad93a1a5984013d82f5e7e1458d9e7
     name: partner-platform-webhook-service
@@ -323,7 +333,7 @@ entries:
     version: 1.2.17
   - apiVersion: v2
     appVersion: 1.2.16
-    created: "2024-10-21T12:33:55.696255987Z"
+    created: "2024-12-18T07:59:43.482489312Z"
     description: A Helm chart for Kubernetes
     digest: 5729b720419876ca103fe13d9a14de1a6cd71590475bdb6c54ca58e65535609f
     name: partner-platform-webhook-service
@@ -333,7 +343,7 @@ entries:
     version: 1.2.16
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-10-21T12:33:55.695363434Z"
+    created: "2024-12-18T07:59:43.481915504Z"
     description: A Helm chart for Kubernetes
     digest: 0bf1d68a7fc0d48113dc6983dddb530b0f6608d0b2b53e43e3f6a44e417728ab
     name: partner-platform-webhook-service
@@ -343,7 +353,7 @@ entries:
     version: 1.2.15
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-10-21T12:33:55.695091615Z"
+    created: "2024-12-18T07:59:43.481305278Z"
     description: A Helm chart for Kubernetes
     digest: b0b8434f0de93b0ce4c24723d2351609630406b1828c4f92ae576206c4f7ecf1
     name: partner-platform-webhook-service
@@ -353,7 +363,7 @@ entries:
     version: 1.2.14
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-10-21T12:33:55.694842067Z"
+    created: "2024-12-18T07:59:43.480803564Z"
     description: A Helm chart for Kubernetes
     digest: a67d52f2f58a6ff5b29795095d121025e7cb525ff7126fff8cea393c31223e9a
     name: partner-platform-webhook-service
@@ -363,7 +373,7 @@ entries:
     version: 1.2.13
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-10-21T12:33:55.70961906Z"
+    created: "2024-12-18T07:59:43.494686858Z"
     description: A Helm chart for Kubernetes
     digest: 694009e531f4db7be2bfa0333cef9d5239c3f3f7afa7d61b7753a674f54c14ce
     name: partner-platform-webhook-service
@@ -373,7 +383,7 @@ entries:
     version: 1.2.9
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-10-21T12:33:55.703096586Z"
+    created: "2024-12-18T07:59:43.488336327Z"
     description: A Helm chart for Kubernetes
     digest: b879320c62be467dc643e883dc17daf238e7a8832f36e69bf518553566f556f1
     name: partner-platform-webhook-service
@@ -383,7 +393,7 @@ entries:
     version: 1.2.4
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-10-21T12:33:55.701090387Z"
+    created: "2024-12-18T07:59:43.48638266Z"
     description: A Helm chart for Kubernetes
     digest: 1eff424f4ed78f234d69e0323cb1a5fbb4b6af3b2b76a75ca449e2b1c101ddda
     name: partner-platform-webhook-service
@@ -393,7 +403,7 @@ entries:
     version: 1.2.3
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-10-21T12:33:55.698261616Z"
+    created: "2024-12-18T07:59:43.484170572Z"
     description: A Helm chart for Kubernetes
     digest: 9c28bb10dd4c7dfbad3ca355b4b351ca79a1a1277b04494bc9b1dd023c11fcfc
     name: partner-platform-webhook-service
@@ -403,7 +413,7 @@ entries:
     version: 1.2.2
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-10-21T12:33:55.694579605Z"
+    created: "2024-12-18T07:59:43.480158853Z"
     description: A Helm chart for Kubernetes
     digest: 9473fac4625b7d86b8400fcbeb97ce4769d90adc85cb84b02f4fbf2b89cf7912
     name: partner-platform-webhook-service
@@ -413,7 +423,7 @@ entries:
     version: 0.0.0-f04ad3309d9f143213903d8f59aec3b5c1032903
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-10-21T12:33:55.694078125Z"
+    created: "2024-12-18T07:59:43.479854036Z"
     description: A Helm chart for Kubernetes
     digest: 4ddf5b8379e4aa00c0dda0ece4f1676be1ed6ec47f1e4da679a3e4893fbfbe12
     name: partner-platform-webhook-service
@@ -423,7 +433,7 @@ entries:
     version: 0.0.0-ebff02c1313e6a89c3d6301dc4199d014cfd2b93
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-10-21T12:33:55.693735102Z"
+    created: "2024-12-18T07:59:43.479351661Z"
     description: A Helm chart for Kubernetes
     digest: 90a8c8372cdc3fc39fcb3bd40555d95aa0fe55fed66b015d56d541c9cbcb242f
     name: partner-platform-webhook-service
@@ -433,7 +443,7 @@ entries:
     version: 0.0.0-d4680b62398b539a6584459d4ae55beef3588362
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-10-21T12:33:55.693429901Z"
+    created: "2024-12-18T07:59:43.479070838Z"
     description: A Helm chart for Kubernetes
     digest: cd71b9f8d2691deb6c3faa777809a3d9c72e2815da73237d6e285a543865233e
     name: partner-platform-webhook-service
@@ -443,7 +453,7 @@ entries:
     version: 0.0.0-d11d91ca8cf9f27ff01b9c5d911fb66a6534e01f
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-10-21T12:33:55.693132844Z"
+    created: "2024-12-18T07:59:43.478780878Z"
     description: A Helm chart for Kubernetes
     digest: fea6961d3c2916ef9d4d883e9102cf3dea5e3cada964c4696e9a487b3393a4e4
     name: partner-platform-webhook-service
@@ -453,7 +463,7 @@ entries:
     version: 0.0.0-c710fad9e4510818372d37c20b71154042848c96
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-10-21T12:33:55.692839985Z"
+    created: "2024-12-18T07:59:43.478482292Z"
     description: A Helm chart for Kubernetes
     digest: 0df40f341127713ee3135cf85ce46dc84d261d3267d35b22777bf0a8285399b0
     name: partner-platform-webhook-service
@@ -463,7 +473,7 @@ entries:
     version: 0.0.0-c4ab427d6cefc70b3e6cc50db36e129e8aec2b4b
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-10-21T12:33:55.692542728Z"
+    created: "2024-12-18T07:59:43.478192203Z"
     description: A Helm chart for Kubernetes
     digest: e8e63d2da133916b0029c33d3d8aac644d15297033a380cba6712fc51c54b862
     name: partner-platform-webhook-service
@@ -473,7 +483,7 @@ entries:
     version: 0.0.0-abd1ef662edd8f8e9b029bc0bdb3d569d3181ea0
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-10-21T12:33:55.692234621Z"
+    created: "2024-12-18T07:59:43.477881865Z"
     description: A Helm chart for Kubernetes
     digest: ed1644f0f708e6bd7a6d51b17f488598b5991b3f5a3eba2d8df009b94e790ec8
     name: partner-platform-webhook-service
@@ -483,7 +493,7 @@ entries:
     version: 0.0.0-9e54db83f605836de543e09da93e2945aa84962b
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-10-21T12:33:55.691943515Z"
+    created: "2024-12-18T07:59:43.477590152Z"
     description: A Helm chart for Kubernetes
     digest: 588915f90026b711240dfb0c34bc8335c502b650f5df058720000770fdba25a1
     name: partner-platform-webhook-service
@@ -493,7 +503,7 @@ entries:
     version: 0.0.0-9bad4295f97ee0e2cce32b5c121c762d34845639
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-10-21T12:33:55.691646218Z"
+    created: "2024-12-18T07:59:43.477296776Z"
     description: A Helm chart for Kubernetes
     digest: 5e9cfd6e5ec22329f0fe4a14c3f5ac90e77c7f9120ab1c8d5939e5644bb3664f
     name: partner-platform-webhook-service
@@ -503,7 +513,7 @@ entries:
     version: 0.0.0-862d31c8ca752fd192bc3e306d79616b1e6921ff
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-10-21T12:33:55.691369239Z"
+    created: "2024-12-18T07:59:43.477024108Z"
     description: A Helm chart for Kubernetes
     digest: e375d1d202a9fa037de34cf8af06deb0b2417d6a389eaf98378dd5fc2fbecaa4
     name: partner-platform-webhook-service
@@ -513,7 +523,7 @@ entries:
     version: 0.0.0-791e6f14b603e4e49ddbd3cc5af86d51dfcb2ad4
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-10-21T12:33:55.69104423Z"
+    created: "2024-12-18T07:59:43.476703301Z"
     description: A Helm chart for Kubernetes
     digest: fbf2b8e119eb752b2e433391f0a589c57af58455da28e27857cea91d11e95a15
     name: partner-platform-webhook-service
@@ -523,7 +533,7 @@ entries:
     version: 0.0.0-78161a216578a6500562f379493c6dc6791c2d4c
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-10-21T12:33:55.690717518Z"
+    created: "2024-12-18T07:59:43.476388686Z"
     description: A Helm chart for Kubernetes
     digest: d5b78a5435f88192bd79de885099b9834322044abb134e3b85187d9700eb5b8e
     name: partner-platform-webhook-service
@@ -533,7 +543,7 @@ entries:
     version: 0.0.0-6cfe228744677fd140dfb99a1161b427087a8225
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-10-21T12:33:55.69042503Z"
+    created: "2024-12-18T07:59:43.476094327Z"
     description: A Helm chart for Kubernetes
     digest: e9be3e6125ad390c8e74326ca1a6e9c373697968416d3bb7537b0fd51c2b585a
     name: partner-platform-webhook-service
@@ -543,7 +553,7 @@ entries:
     version: 0.0.0-6b7f6ae83598cbc9fda5d5b85c2170427430bd10
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-10-21T12:33:55.690140296Z"
+    created: "2024-12-18T07:59:43.475795311Z"
     description: A Helm chart for Kubernetes
     digest: 74d328d99e8367d648b9e78db32c317a1ca974f543e46810ffd4378818989ad7
     name: partner-platform-webhook-service
@@ -553,7 +563,7 @@ entries:
     version: 0.0.0-69903c354d071233f6baaf5c006287ac53823f9f
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-10-21T12:33:55.689765484Z"
+    created: "2024-12-18T07:59:43.475438286Z"
     description: A Helm chart for Kubernetes
     digest: 4512f373a1b453cee5857fd030b4aa6805f7fa57a689c20473da3e0cb6bd4476
     name: partner-platform-webhook-service
@@ -563,7 +573,7 @@ entries:
     version: 0.0.0-55a33a2293955e610d57d559e510494017c23142
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-10-21T12:33:55.689188683Z"
+    created: "2024-12-18T07:59:43.474767488Z"
     description: A Helm chart for Kubernetes
     digest: b5fff3b88636092f26bad58fca71f546bcedfb32609904bc8ffbeb4c4e832686
     name: partner-platform-webhook-service
@@ -573,7 +583,7 @@ entries:
     version: 0.0.0-4dfba2ae964cafcc98c604f28839a61063ebc843
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-10-21T12:33:55.688482619Z"
+    created: "2024-12-18T07:59:43.47405959Z"
     description: A Helm chart for Kubernetes
     digest: 44e812502fdf1d0e33be322e696e19c9feed1518729e96a11d23f26ce1fa6aad
     name: partner-platform-webhook-service
@@ -581,4 +591,4 @@ entries:
     urls:
     - https://thg-tech-logistics.github.io/tech-logistics-app-catalog/partner-platform-webhook-service-0.0.0-21d48a77b994dee0fdc86ea20c4ecabe140aa51b.tgz
     version: 0.0.0-21d48a77b994dee0fdc86ea20c4ecabe140aa51b
-generated: "2024-10-21T12:33:55.68751192Z"
+generated: "2024-12-18T07:59:43.472847373Z"
